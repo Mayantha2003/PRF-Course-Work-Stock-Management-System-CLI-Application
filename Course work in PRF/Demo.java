@@ -6,7 +6,7 @@ public class Demo{
     static String[][]supplier = new String[0][2]; // {{"S001","Oshan"},{"S002","Dilni"},{"S003","Viranga"}
     static String[]category=new String[0]; // {"Food" , " Medicin"," gift "}
     static String[][]item=new String[0][6]; // {{"Supplier Id" , "Item Code" , "Description" , "Price" , "qty" , "Category"}}
-    static String correctUsername = "danujav";
+    static String correctUsername = "Maya";
     static String correctPassword = "1234";
 
 
